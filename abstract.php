@@ -21,5 +21,4 @@ class Xyz extends Abc
 }
 $obj=new Xyz;
 $obj->test();
-
 ?>
